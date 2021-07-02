@@ -16,5 +16,7 @@ void printResults(std::vector<int> input) {
 int main() {
     printResults({4, 17, 50});
     printResults({4, 30, 50});
+    printResults({3 , 11 , 19 , 24});
+    
     return 0;
 }
